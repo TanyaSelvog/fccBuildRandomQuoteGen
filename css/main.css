@@ -1,1 +1,12 @@
+body {
+  background: #C3F6F8;
+  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
 
+}
+
+#quoteDisplay {
+  font-size: 26px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
